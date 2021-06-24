@@ -1,7 +1,7 @@
 ### Machine Learning Engineer 🌱
 - currently working in the financial industry  
 - having interests in FinTech, Recommendation System and Cloud Platform
-
+- preferring not only to apply machine learning, but to understand the business ecosystem and approach it logically.
 
 <div align=center>
 

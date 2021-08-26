@@ -1,7 +1,11 @@
-### Machine Learning Engineer 🌱
-- currently working in the financial industry  
-- having interests in FinTech, E-commerce and Social Network Platform  
-- preferring not only to apply machine learning, but to understand the business ecosystem and approach it logically
+### I'm Youyoung Jang 👻
+I am a Data Scientist who build a recommender system and analyze people's behavior style.  
+I am currently working in the financial industry, but I also have interests in FinTech, E-commerce, and Social Network Platform.  
+
+### Recent Works  
+🦜 [Exploring Pytorch Geometric with Reddit Dataset](https://youyoung-jang.medium.com/exploring-pytorch-geometric-with-reddit-data-b38a9a44eec0)  
+🐋 [Pytorch Geometric Example Repository](https://github.com/hoopoes/pytorch-gnn-research)  
+🐝 ...
 
 <div align=center>
 

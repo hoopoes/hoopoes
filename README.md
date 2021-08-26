@@ -1,5 +1,5 @@
 ### I'm Youyoung Jang 👻
-I am a Data Scientist who build a recommender system and analyze people's behavior style.  
+I am a data scientist who build a recommender system and analyze people's behavior style.  
 I am currently working in the financial industry, but I also have interests in FinTech, E-commerce, and Social Network Platform.  
 
 ### Recent Works  

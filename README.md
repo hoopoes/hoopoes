@@ -1,11 +1,11 @@
 ### I'm Youyoung Jang 👻
 I am a data scientist who build a recommender system and analyze people's behavior style.  
-I am currently working in the financial industry, but I also have interests in FinTech, E-commerce, and Social Network Platform.  
+I am currently working in the financial industry, and I also have interests in FinTech, E-commerce, and Social Network Platform.  
 
 ### Recent Works  
 🦜 [Exploring Pytorch Geometric with Reddit Dataset](https://youyoung-jang.medium.com/exploring-pytorch-geometric-with-reddit-data-b38a9a44eec0)  
 🐋 [Pytorch Geometric Example Repository](https://github.com/hoopoes/pytorch-gnn-research)  
-🐝 ...
+🐝 [Developing Bipartie GIN with Spark & Tensorflow](https://github.com/hoopoes/Bipartite-Graph-Isomorphism-Network)  
 
 <div align=center>
 

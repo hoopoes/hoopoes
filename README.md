@@ -5,7 +5,7 @@ I am currently working in the financial industry, and I also have interests in F
 ### Recent Works  
 🦜 [Exploring Pytorch Geometric with Reddit Dataset](https://youyoung-jang.medium.com/exploring-pytorch-geometric-with-reddit-data-b38a9a44eec0)  
 🐋 [Pytorch Geometric Example Repository](https://github.com/hoopoes/pytorch-gnn-research)  
-🐝 [Developing Bipartie GIN with Spark & Tensorflow](https://github.com/hoopoes/Bipartite-Graph-Isomorphism-Network)  
+🐝 [Developing Bipartite GIN with Spark & Tensorflow](https://github.com/hoopoes/Bipartite-Graph-Isomorphism-Network)  
 
 <div align=center>
 

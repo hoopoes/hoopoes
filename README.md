@@ -3,6 +3,7 @@ I am a data scientist who build a recommender system and analyze people's behavi
 I am currently working in the FinTech company and I also have interests in E-commerce and Social Network Platform.  
 
 ### Recent Works  
+🐬 [TabTransformer Experiment Repository](https://github.com/hoopoes/tab-transformer)  
 🐢 [Training Metapath2vec with Pytorch Geometric](https://github.com/hoopoes/metapath2vec)  
 🦚 [Pytorch Geometric Example Repository](https://github.com/hoopoes/pytorch-gnn-research)  
 
